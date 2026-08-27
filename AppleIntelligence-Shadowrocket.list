@@ -1,0 +1,24 @@
+# Apple Intelligence / Siri / Private Cloud Compute
+# For Shadowrocket RULE-SET. Policy should be PROXY (US/SG node).
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-KEYWORD,apple-relay
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-t.apple-dns.net
+DOMAIN-SUFFIX,mask.apple-dns.net
+DOMAIN,gateway.icloud.com
+DOMAIN-KEYWORD,apple-intelligence
+DOMAIN-SUFFIX,apps.mzstatic.com
